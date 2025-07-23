@@ -17,13 +17,12 @@ A full-featured personal blog web application with user registration, authentica
 
 ## 📸 Preview
 
-![Home Page](assets/homepage.png)
 *Home Page*
+![Home Page](assets/homepage.png)
 
-![Dashboard](assets/dashboard.png)
 *User Dashboard*
+![Dashboard](assets/dashboard.png)
 
-> 🖼️ Replace `preview_images/homepage.png` and `dashboard.png` with your own screenshots
 
 ---
 
